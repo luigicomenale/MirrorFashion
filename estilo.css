@@ -1,0 +1,16 @@
+body {
+font-family: "Arial", "Helvetica", sans-serif;
+}
+
+p {
+text-align: center;
+}
+h1 {
+background-image: url(sobre-background.jpg);
+}
+body {
+border-color: gray;
+border-style: solid;
+border-width: 1px;
+
+}
